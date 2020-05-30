@@ -3,7 +3,7 @@
     {
       "title": "Syntax",
       "subtitle": "ブログの特殊な構文等を紹介",
-      "cardStyle": "default",
+      "style": "default",
       "permalink": "syntax",
       "content": "example/syntax.md",
       "tags": [
