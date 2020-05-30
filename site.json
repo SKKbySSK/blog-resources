@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "title": "Syntax",
+      "subtitle": "ブログの特殊な構文等を紹介",
+      "cardStyle": "default",
+      "permalink": "syntax",
+      "content": "example/syntax.md",
+      "tags": [
+        "example"
+      ],
+      "hidden": true
+    },
+    {
+      "title": "Example",
+      "subtitle": "Markdownの各種サンプル",
+      "cardStyle": "default",
+      "permalink": "example",
+      "content": "example/example.md",
+      "image": "https://octodex.github.com/images/minion.png",
+      "style": "overlay",
+      "tags": [
+        "example"
+      ],
+      "hidden": true
+    }
+  ]
+}
