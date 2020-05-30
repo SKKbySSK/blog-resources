@@ -22,8 +22,8 @@
   "subtitle": "レイジーレイジーもすこ",
   "style": "overlay",
   "image": "https://cdn.img-conv.gamerch.com/img.gamerch.com/imascg-slstage-wiki/1535116859.jpg"
-  "permalink": "imas/frederica.md",
-  "content": "Markdownのパス",
+  "permalink": "imas/frederica-suko",
+  "content": "imas/frederica.md",
   "tags": [
     "フレデリカ",
     "アイドルマスター"
