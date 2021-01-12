@@ -3,7 +3,6 @@
     {
       "title": "Syntax",
       "subtitle": "ブログの特殊な構文等を紹介",
-      "style": "default",
       "permalink": "syntax",
       "content": "example/syntax.md",
       "tags": [
@@ -14,15 +13,18 @@
     {
       "title": "Example",
       "subtitle": "Markdownの各種サンプル",
-      "cardStyle": "default",
       "permalink": "example",
       "content": "example/example.md",
-      "image": "https://octodex.github.com/images/minion.png",
-      "style": "overlay",
       "tags": [
         "example"
       ],
       "hidden": true
+    },
+    {
+      "title": "ブログを作った",
+      "subtitle": "Next.js + TypeScriptでブログを作り直した話",
+      "permalink": "create-new-blog",
+      "content": "memo/create-new-blog.md"
     }
   ]
 }
