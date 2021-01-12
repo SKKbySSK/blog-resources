@@ -2,7 +2,7 @@
 
 ブログを新しく作りました。
 
-業務でReactを使う機会があったため、勉強がてら作っていたブログです。Next.js + TypeScript + MarkDownで構成しています。
+業務でReactを使う機会があったため、勉強がてら作っていたブログです。Next.js + TypeScript + Markdownで構成しています。
 
 GitHubで管理しつつ、Vercelにデプロイしています。
 
