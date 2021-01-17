@@ -8,7 +8,7 @@ GitHubで管理しつつ、Vercelにデプロイしています。
 
 | エンジン | データ |
 | ------- | ------- |
-| [next-blog](https://github.com/SKKbySSK/next-blog) | [resources](https://github.com/SKKbySSK/blog-resources) |
+| [next-blog](https://github.com/SKKbySSK/next-blog) | [blog-resources](https://github.com/SKKbySSK/blog-resources) |
 
 ## 機能
 とりあえず、自分が使いそうな機能は大体揃えました。
